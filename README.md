@@ -36,8 +36,9 @@ Make sure the following tools are installed:
 git clone https://github.com/YOUR_USERNAME/recon-tool.git
 cd recon-tool
 chmod +x recon.sh
+```
 
 ## Usage
-
+```
 ./recon.sh -d target.com --all
-
+```
