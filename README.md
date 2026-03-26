@@ -39,6 +39,18 @@ chmod +x recon.sh
 ```
 
 ## Usage
-```
+```bash
 ./recon.sh -d target.com --all
+```
+```bash
+USAGE:./recon.sh [DOMAIN...] [OPTIONS...]
+        -d , --domain Domain name
+        -h , --help Help menu
+        -hx , --httpx Get live domains
+        -u , --urls Get all the urls
+        -p , --parameter Get paameter
+        -w , --wayback Get wayback data
+        -ps , --portscan Get Port Scanning
+        -a , --all For full enumeration
+
 ```
