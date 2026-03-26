@@ -54,3 +54,9 @@ USAGE:./recon.sh [DOMAIN...] [OPTIONS...]
         -a , --all For full enumeration
 
 ```
+## Example
+
+```bash
+./recon.sh -d example.com --all
+
+```
