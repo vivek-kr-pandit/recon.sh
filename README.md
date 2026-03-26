@@ -33,8 +33,8 @@ Make sure the following tools are installed:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/recon-tool.git
-cd recon-tool
+git clone https://github.com/vivek-kr-pandit/recon.sh
+cd recon.sh
 chmod +x recon.sh
 ```
 
